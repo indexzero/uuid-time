@@ -1,7 +1,7 @@
 {
   "name": "uuid-time",
   "version": "1.0.0",
-  "description": "Get time from uuids",
+  "description": "Get time from RFC4122 uuids",
   "main": "index.js",
   "scripts": {
     "test": "vows test.js --spec"

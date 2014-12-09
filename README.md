@@ -1,6 +1,6 @@
 # uuid-time
 
-Get time from uuids
+Get time from RFC4122 uuids
 
 ### Motivation
 
