@@ -1,6 +1,6 @@
 {
   "name": "uuid-time",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get time from uuids",
   "main": "index.js",
   "scripts": {
