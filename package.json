@@ -1,0 +1,28 @@
+{
+  "name": "uuid-time",
+  "version": "0.0.0",
+  "description": "Get time from uuids",
+  "main": "index.js",
+  "scripts": {
+    "test": "vows test.js --spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indexzero/uuid-time"
+  },
+  "keywords": [
+    "uuid",
+    "time"
+  ],
+  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indexzero/uuid-time/issues"
+  },
+  "homepage": "https://github.com/indexzero/uuid-time",
+  "devDependencies": {
+    "node-uuid": "~1.4.2",
+    "uuid": "~2.0.1",
+    "vows": "~0.8.1"
+  }
+}
